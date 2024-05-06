@@ -1,0 +1,12 @@
+:root {
+  /* Negro */
+  --color-primario: rgb(0, 0, 0);
+
+  /* Azul */
+  --color-secundario: rgb(8, 36, 90);
+
+  /* Oro */
+  --color-terciario: rgb(189, 149, 0);
+   --color-cuarto: rgb(189, 149, 0);
+  --color-quinto: rgb(189, 149, 0);
+}
